@@ -1,0 +1,3 @@
+C:/Users/nerdy/CLionProjects/chordsMethod/cmake-build-debug/CMakeFiles/chordsMethod.dir
+C:/Users/nerdy/CLionProjects/chordsMethod/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nerdy/CLionProjects/chordsMethod/cmake-build-debug/CMakeFiles/rebuild_cache.dir
